@@ -1,0 +1,14 @@
+#pragma once
+
+#define MASTER_RIGHT
+
+#define MATRIX_ROWS 10
+#define MATRIX_COLS 14
+
+#define MATRIX_ROW_PINS { GP0, GP1, GP2, GP3, GP4 }
+
+#define MATRIX_COL_PINS_LEFT  { GP11, GP10, GP9, GP8, GP7, GP6, GP5 }
+
+#define MATRIX_COL_PINS_RIGHT { GP5, GP6, GP7, GP8, GP9, GP10, GP11 }
+
+#define SOFT_SERIAL_PIN GP18

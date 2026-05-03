@@ -30,3 +30,13 @@ After this, I added some tape to the parts between the switches to prevent short
 After finishing this thing, I quickly designed a small case and printed it. However, it wsa too shallow. I printed a deeper one and let that run overnight, and it kind of fit. But once I connected the USB cable, it didn't :(
 Here's a picture of the case I printed in the morning!
 ![case](images/case1.png)
+
+## Session 4
+Time Spent: 2 Hours
+I took the time to deepen out the cases 4mm more so that I have more headroom for the pico to be inside. I made a quick QMK firmware to see how it works, and spent the next hour reading docs and trying to find out how to do split keyboards that follow my mirrored matrix. I couldn't find that many resources, so I might just write my own code later, but I did somehow get it to show up in Vial?
+![Vial Dummy JSON](images/vial_dummy_json.png)
+Anyway I had spent too much time on QMK with no tangible results, so I took a break here.
+
+## Session 5
+Time Spent: 3 Hours
+I came back and tried 2-3 times more to get QMK working, a few times without Vial included. I installed POG and KMK too, but that didn't work either. I thought that perhaps I had issues with the matrix, so I whipped up a quick matrix tester tool and that was going haywire on the right side but pretty chill on the left side so I KNOW my soldering was bad. I got enough spare switches to retry soldering the right side so I'll probably redo that.
