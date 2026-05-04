@@ -40,3 +40,8 @@ Anyway I had spent too much time on QMK with no tangible results, so I took a br
 ## Session 5
 Time Spent: 3 Hours
 I came back and tried 2-3 times more to get QMK working, a few times without Vial included. I installed POG and KMK too, but that didn't work either. I thought that perhaps I had issues with the matrix, so I whipped up a quick matrix tester tool and that was going haywire on the right side but pretty chill on the left side so I KNOW my soldering was bad. I got enough spare switches to retry soldering the right side so I'll probably redo that.
+
+## Session 6
+Time Spent: 45 minutes
+I quickly remodeled some old keycaps I had for a previous render and sent them off to the printer. After the plate finished printing for the right half I started attaching and soldering switches for that, but I need to desolder more switches from the previous attempt so I didn't complete it. After around 3 hours, all the keycaps finished printing and I am pretty proud of the result from that. Here's a picture!
+![keycaps on](images/keycaps.png)
