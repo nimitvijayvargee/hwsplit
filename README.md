@@ -3,7 +3,7 @@ handwired split keyboard with spare parts!
 
 I made this for fun, and it is in NO WAY a functioning keyboard layout you may want to use. The function row does not work, and the backtick/tilde are also not present. There are probably going to be hundreds of flaws.
 
-[image](images/keyboard.png)
+![image](images/keyboard.png)
 
 ## Assembly Instructions
 First of all, no idea why you'd EVER want to assembly one of these.
