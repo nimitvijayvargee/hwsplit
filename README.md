@@ -27,7 +27,7 @@ Try using Vial's matrix tester to validate your matrix using the app (https://ge
 You can then set your keys to whatever you want!
 
 If you need visual help, you may find some images in my [Journal](JOURNAL.md),
-## Keycops Needed
+## Keycaps Needed
 You will need 56x 1u keycaps, 1x 2u keycap and 6x 1.25u keycaps. The spacebar (or spaceblocks) are 2x (1.5u x 1.5u) square keycaps. These are not available anywhere to my knowledge. 
 
 I printed all my keycaps, so it may be wise to do so.
